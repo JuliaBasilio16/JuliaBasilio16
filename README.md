@@ -17,8 +17,8 @@ Hi there, I'm Julia!
 <span style="font-size:14px;">
 Currently, I am focused on my studies while continuously improving my skills in software development, with a special interest in <strong>mobile development</strong>. I enjoy learning new technologies, solving problems, and creating solutions that make a positive impact on people's lives.
 </span>
-
-<br/><br/>
+<br>
+<br>
 
 <span style="font-size:14px;">
 🎓 <strong>FECAP</strong> — Analysis and Development of Systems (ADS)<br/>
