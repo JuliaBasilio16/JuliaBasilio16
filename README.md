@@ -15,7 +15,7 @@ Hi there, I'm Julia!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
 
 <span style="font-size:14px;">
-Currently, I am focused on my studies while continuously improving my skills in software development, with a special interest in <strong>mobile development</strong>. I enjoy learning new technologies, solving problems, and creating solutions that make a positive impact on people's lives.
+Currently, I am focused on my studies while continuously improving my skills in software development, with a special interest in <strong>mobile development</strong>. I enjoy learning new things, solving problems, and creating solutions that make a positive impact on people's lives.
 </span>
 <br>
 <br>
