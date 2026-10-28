@@ -30,3 +30,9 @@ Currently, I am focused on my studies while continuously improving my skills in 
 </span>
 
 <br clear="right"/>
+
+<p align="center">
+  <a href="https://juliabasilio.netlify.app">
+    <strong>Me conheça melhor clicando aqui</strong>
+  </a>
+</p>
